@@ -1,6 +1,6 @@
 # Sistema Gerenciador de HotSpot Mikrotik #
 
-Sistema linux de gerenciamento de mikrotiks com hotspot pix com mercadopago.
+Sistema linux de gerenciamento de mikrotiks com hotspot pix com Mercadopago.
 
 
 #Baixar Programa Putty
@@ -15,7 +15,7 @@ apt upgrade
 sudo apt install -y git && git clone https://github.com/VandilsonMarcelo/HotSpotPix.git HotSpotPix && sudo chmod -R 777 HotSpotPix  && cd HotSpotPix  && ./SgmPix_mikrotik_1.0.2
 
 
-#Instalar Servdor Vpn
+#Instalar Servidor Vpn
 wget https://git.io/vpnsetup -O vpnsetup.sh && sudo sh vpnsetup.sh
 
 
@@ -37,3 +37,4 @@ https://xxxxxxxxxxx.ngrok-free.app
 ===========================================
 Suporte Instalação 
 zap 75 3142-0892
+https://wa.me/message/K7CJFTS5OK4NE1
